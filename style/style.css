@@ -73,17 +73,14 @@ background: #FF3E79 url(../images/close.svg) no-repeat 50% 50%;
     color: #1B1C21;
     padding: 0;
 }
-.services-list__item{
+.services-list__item>a{
     margin-bottom: 32px;
     padding: 0;
     padding-left: 24px;
-    
-}
-.services-list__item>a{
     text-decoration:none;
     color: #1B1C21;
 }
-.services-list__item:hover{
+.services-list__item>a:hover{
     border-left: 4px solid #41F6D7;
     border-radius: 4px;
     color: #7E7E82;
