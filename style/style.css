@@ -106,6 +106,9 @@ background: #FF3E79 url(../images/close.svg) no-repeat 50% 50%;
     margin-right: 16px;
     margin-bottom: 5px;
 }
+.contacts{
+ margin-bottom: 40px;
+}
 .contacts>a{
     color: #1B1C21;
     margin-left: 24px;
@@ -119,7 +122,7 @@ background: #FF3E79 url(../images/close.svg) no-repeat 50% 50%;
 .phone-number{
     font-size: 24px;
     font-family: TTLakes ExtraBold;
-    margin-bottom: 40px;
+    
 }
 .ru, .en, .ch{
     font-size: 16px;
