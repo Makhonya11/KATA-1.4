@@ -119,6 +119,7 @@ background: #FF3E79 url(../images/close.svg) no-repeat 50% 50%;
 .phone-number{
     font-size: 24px;
     font-family: TTLakes ExtraBold;
+    margin-bottom: 40px;
 }
 .ru, .en, .ch{
     font-size: 16px;
