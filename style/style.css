@@ -77,7 +77,11 @@ background: #FF3E79 url(../images/close.svg) no-repeat 50% 50%;
     margin-bottom: 32px;
     padding: 0;
     padding-left: 24px;
+    
+}
+.services-list__item>a{
     text-decoration:none;
+    color: #1B1C21;
 }
 .services-list__item:hover{
     border-left: 4px solid #41F6D7;
