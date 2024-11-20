@@ -73,8 +73,10 @@ background: #FF3E79 url(../images/close.svg) no-repeat 50% 50%;
     color: #1B1C21;
     padding: 0;
 }
+.services-list__item{
+ margin-bottom: 32px;
+}
 .services-list__item>a{
-    margin-bottom: 32px;
     padding: 0;
     padding-left: 24px;
     text-decoration:none;
