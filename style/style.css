@@ -21,7 +21,9 @@
     url("../fonts/TTLakes-ExtraBold.woff") format('woff');
     font-weight: extrabold;
 }
-
+.body-page{
+    margin:0;
+}
 .body{
 width: 320px;
 box-sizing: border-box;
