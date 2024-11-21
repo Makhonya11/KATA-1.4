@@ -27,6 +27,7 @@ width: 320px;
 box-sizing: border-box;
 font-family: "TTLakes Medium";
 margin: 0;
+box-shadow: 25px 0 32px -20px #869ab0;
 }
 .menu-header__wrapper{
     display: flex;
