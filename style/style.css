@@ -28,11 +28,12 @@ box-sizing: border-box;
 font-family: "TTLakes Medium";
 margin: 0;
 }
-.menu-header{
+menu-header__wrapper{
     display: flex;
     justify-content: start;
     align-items: center;
     padding: 24px 19px ;
+    margin-bottom: 46px;
 }
 .icon{
     width: 40px;
@@ -49,7 +50,6 @@ margin: 0;
 background: #FF3E79 url(../images/close.svg) no-repeat 50% 50%;
     margin-right: 17px;
     transition-duration: 0.2s;
-    margin-bottom: 46px;
 }
 .exit:hover{
     transform: rotate(90deg) scale(1.1);
