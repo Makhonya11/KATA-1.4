@@ -28,7 +28,7 @@ box-sizing: border-box;
 font-family: "TTLakes Medium";
 margin: 0;
 }
-menu-header__wrapper{
+.menu-header__wrapper{
     display: flex;
     justify-content: start;
     align-items: center;
